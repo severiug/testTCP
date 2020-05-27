@@ -1,5 +1,5 @@
 all:
-	gcc tcpclient.c -o client
+	gcc tcpserver.c -o server
 
 clean: 
-	rm -rf client
+	rm -rf server *.log *.txt
