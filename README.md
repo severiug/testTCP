@@ -1,5 +1,5 @@
 # testTCP
-TCP <server-client>
+# TCP server-client app
 
 Includes 2 directories with source code and makefile in each one.
 To build tcpclient.c and tcpserver.c use command "make"
