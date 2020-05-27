@@ -1,4 +1,3 @@
-# testTCP
 # TCP server-client app
 
 Includes 2 directories with source code and makefile in each one.
